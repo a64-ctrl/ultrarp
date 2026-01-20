@@ -1,11 +1,4 @@
 # meta developer: @mm_mods
-import os
-from hikka import loader, utils
-import pickle
-from telethon.tl.types import Channel
-import toml
-
-
 # noinspection PyCallingNonCallable
 @loader.tds
 class RPMod(loader.Module):
