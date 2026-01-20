@@ -1,5 +1,4 @@
 # meta developer: @mm_mods
-# requires: toml
 import os
 from hikka import loader, utils
 import pickle
